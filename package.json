@@ -1,0 +1,23 @@
+{
+  "name": "database.github.io",
+  "version": "1.0.0",
+  "description": "Excercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giabaosoftware/database.github.io.git"
+  },
+  "author": "Bao Bao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giabaosoftware/database.github.io/issues"
+  },
+  "homepage": "https://github.com/giabaosoftware/database.github.io#readme",
+  "dependencies": {
+    "linebyline": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
